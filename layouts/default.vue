@@ -74,7 +74,7 @@ export default {
   },
 
   data: () => ({
-    appTitle: 'The Elder Scrolls',
+    appTitle: 'Final Fantasy XIV',
     theme: ''
   }),
 
