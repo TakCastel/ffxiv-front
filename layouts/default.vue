@@ -89,7 +89,7 @@ export default {
     this.$axios
       .get('/themes', {
         params: {
-          'game.title': 'teso'
+          'game.title': 'ffxiv'
         }
       })
       .then((response) => {
